@@ -1,6 +1,6 @@
 cask "teleport" do
-  version "0.0.3"
-  sha256 "3579d76de1986801bfe7350309e688813d5bff28f725408ae937b98750927961"
+  version "0.0.4"
+  sha256 "972263394c71e5246987321abd51f577b14e7097895ec0f38b6971cf830c6cc8"
 
   url "https://github.com/xorforce/teleport/releases/download/v#{version}/Teleport.dmg"
   name "Teleport"
