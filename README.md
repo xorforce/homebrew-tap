@@ -32,25 +32,6 @@ brew install xorforce/tap/<formula>
 brew install --cask xorforce/tap/<cask>
 ```
 
-## Quick Install Examples
-
-### Teleport
-
-```bash
-# CLI only
-brew tap xorforce/tap
-brew install xorforce/tap/teleport-cli
-
-# macOS App only
-brew tap xorforce/tap
-brew install --cask xorforce/tap/teleport
-
-# Both CLI and App
-brew tap xorforce/tap
-brew install xorforce/tap/teleport-cli
-brew install --cask xorforce/tap/teleport
-```
-
 ## Updating
 
 ```bash
