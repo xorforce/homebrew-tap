@@ -12,6 +12,7 @@ brew tap xorforce/tap
 
 | Formula | Description |
 |---------|-------------|
+| `synapse` | Sync Twitter/X bookmarks to Obsidian with AI-powered categorization |
 | `teleport-cli` | Teleport CLI for secure infrastructure access |
 
 ### Install a Formula
